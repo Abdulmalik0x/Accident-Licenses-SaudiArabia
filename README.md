@@ -68,4 +68,4 @@ Future projects will require you to decide on the entire structure of your techn
 
 ### Thanks:
 
-Thanks to my instructor and the associate instructors @Andrew 
+Thanks to my instructor and the associate instructors @andrewyip  
