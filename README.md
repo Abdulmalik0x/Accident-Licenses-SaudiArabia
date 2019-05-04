@@ -1,4 +1,4 @@
-# ![] Local Traffic, Statistical Summaries and Inference
+# Local Traffic, Statistical Summaries and Inference
 
 ### Overview
 
